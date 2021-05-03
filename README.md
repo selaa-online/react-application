@@ -3,7 +3,7 @@
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
-
+API_KEY AIzaSyDw-UIFDz1-u4kmryuIqck_IAAF84ksV3c
 There are two methods for getting started with this repo.
 
 #### Familiar with Git?
